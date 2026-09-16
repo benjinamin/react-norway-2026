@@ -1,0 +1,5 @@
+# Slidev-markdown må ikke formateres: Prettier legger blanke linjer rundt «---»
+# og ødelegger frontmatter per slide.
+slides.md
+slides.starter.md
+pages/*.md

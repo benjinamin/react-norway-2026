@@ -1,0 +1,136 @@
+{
+  "hash": "f84633eb",
+  "configHash": "a7167c50",
+  "lockfileHash": "77826f7a",
+  "browserHash": "6fa9b5e2",
+  "optimized": {
+    "@fix-webm-duration/fix": {
+      "src": "../../.pnpm/@fix-webm-duration+fix@1.0.1/node_modules/@fix-webm-duration/fix/src/index.js",
+      "file": "@fix-webm-duration_fix.js",
+      "fileHash": "dbe658d8",
+      "needsInterop": true
+    },
+    "@shikijs/engine-javascript": {
+      "src": "../../.pnpm/@shikijs+engine-javascript@4.4.3/node_modules/@shikijs/engine-javascript/dist/index.mjs",
+      "file": "@shikijs_engine-javascript.js",
+      "fileHash": "3a355f56",
+      "needsInterop": false
+    },
+    "@slidev/cli > @slidev/client > @fix-webm-duration/fix": {
+      "src": "../../.pnpm/@fix-webm-duration+fix@1.0.1/node_modules/@fix-webm-duration/fix/src/index.js",
+      "file": "@slidev_cli_n_@slidev_client_n_@fix-webm-duration_fix.js",
+      "fileHash": "bed5b9d8",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > @typescript/ata": {
+      "src": "../../.pnpm/@typescript+ata@0.9.8_typescript@6.0.3/node_modules/@typescript/ata/dist/index.js",
+      "file": "@slidev_cli_n_@slidev_client_n_@typescript_ata.js",
+      "fileHash": "a3de3d84",
+      "needsInterop": false
+    },
+    "@slidev/cli > @slidev/client > ansis": {
+      "src": "../../.pnpm/ansis@4.4.0/node_modules/ansis/index.mjs",
+      "file": "@slidev_cli_n_@slidev_client_n_ansis.js",
+      "fileHash": "4e92202a",
+      "needsInterop": false
+    },
+    "@slidev/cli > @slidev/client > file-saver": {
+      "src": "../../.pnpm/file-saver@2.0.5/node_modules/file-saver/dist/FileSaver.min.js",
+      "file": "@slidev_cli_n_@slidev_client_n_file-saver.js",
+      "fileHash": "2a333c4e",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > lz-string": {
+      "src": "../../.pnpm/lz-string@1.5.0/node_modules/lz-string/libs/lz-string.js",
+      "file": "@slidev_cli_n_@slidev_client_n_lz-string.js",
+      "fileHash": "c3f618f1",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > pptxgenjs": {
+      "src": "../../.pnpm/pptxgenjs@4.0.1/node_modules/pptxgenjs/dist/pptxgen.es.js",
+      "file": "@slidev_cli_n_@slidev_client_n_pptxgenjs.js",
+      "fileHash": "bdfb1e77",
+      "needsInterop": false
+    },
+    "@slidev/cli > @slidev/client > recordrtc": {
+      "src": "../../.pnpm/recordrtc@5.6.2/node_modules/recordrtc/RecordRTC.js",
+      "file": "@slidev_cli_n_@slidev_client_n_recordrtc.js",
+      "fileHash": "e01b84c2",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > typescript": {
+      "src": "../../.pnpm/typescript@6.0.3/node_modules/typescript/lib/typescript.js",
+      "file": "@slidev_cli_n_@slidev_client_n_typescript.js",
+      "fileHash": "7f4e3d27",
+      "needsInterop": true
+    },
+    "@slidev/cli > @slidev/client > yaml": {
+      "src": "../../.pnpm/yaml@2.9.1/node_modules/yaml/browser/index.js",
+      "file": "@slidev_cli_n_@slidev_client_n_yaml.js",
+      "fileHash": "27378c6f",
+      "needsInterop": false
+    },
+    "ansis": {
+      "src": "../../.pnpm/ansis@4.4.0/node_modules/ansis/index.mjs",
+      "file": "ansis.js",
+      "fileHash": "a81b6864",
+      "needsInterop": false
+    },
+    "file-saver": {
+      "src": "../../.pnpm/file-saver@2.0.5/node_modules/file-saver/dist/FileSaver.min.js",
+      "file": "file-saver.js",
+      "fileHash": "fef7f402",
+      "needsInterop": true
+    },
+    "react-dom": {
+      "src": "../../.pnpm/react-dom@19.3.0_react@19.3.0/node_modules/react-dom/index.js",
+      "file": "react-dom.js",
+      "fileHash": "40d2256d",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../.pnpm/react-dom@19.3.0_react@19.3.0/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "54fcd7e0",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../.pnpm/react@19.3.0/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "ff20502d",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../.pnpm/react@19.3.0/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "592b0581",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../.pnpm/react@19.3.0/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "3be762f1",
+      "needsInterop": true
+    },
+    "recordrtc": {
+      "src": "../../.pnpm/recordrtc@5.6.2/node_modules/recordrtc/RecordRTC.js",
+      "file": "recordrtc.js",
+      "fileHash": "5aa49ffe",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "browser-external_node_fs-DAH07_0x": {
+      "file": "browser-external_node_fs-DAH07_0x.js",
+      "isDynamicEntry": true
+    },
+    "browser-external_node_https-OlBrQxW2": {
+      "file": "browser-external_node_https-OlBrQxW2.js",
+      "isDynamicEntry": true
+    },
+    "rolldown-runtime-CEgmsyvS": {
+      "file": "rolldown-runtime-CEgmsyvS.js",
+      "isDynamicEntry": false
+    }
+  }
+}
