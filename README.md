@@ -1,11 +1,34 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# React Norway 2026 — My Favorites
 
-To start the slide show:
+A ~15-minute summary for colleagues of my four favorite talks (plus one honorable mention)
+from Rock & React Festival 2026 (React Norway), Rockefeller, Oslo — June 5th, 2026.
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
+## Running the presentation
 
-Edit the [slides.md](./slides.md) to see the changes.
+1. Install dependencies:
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+   ```bash
+   pnpm install
+   ```
+
+2. Start the dev server:
+
+   ```bash
+   pnpm run dev
+   ```
+
+3. Open <http://localhost:3030> in your browser.
+
+Use the arrow keys / spacebar to move through the slides and clicks on each slide.
+Press `o` for the slide overview, or `f` for fullscreen.
+
+The content lives in [`slides.md`](./slides.md) — edit and save to see changes live.
+
+### Other commands
+
+- `pnpm run build` — builds a static version of the presentation.
+- `pnpm run export` — exports the slides to PDF/PNG.
+
+---
+
+Made using [Slidev](https://github.com/slidevjs/slidev).
